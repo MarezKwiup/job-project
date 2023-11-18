@@ -20,7 +20,7 @@ const Landing = () => {
             job <span>tracking</span> app
           </h1>
           <p>
-          I'm baby lomo narwhal DSA bespoke gastropub tbh heirloom blue bottle. Craft beer banh mi kogi polaroid irony before they sold out beard trust fund photo booth humblebrag kitsch pork belly. Kale chips chillwave quinoa cronut wolf salvia poke intelligentsia tumblr, gastropub gluten-free cliche. Vinyl woke biodiesel, venmo quinoa chicharrones pabst pork belly cardigan. Yuccie sustainable air plant ennui tumeric.
+          A job tracking application to make arduous job hunting process easy
           </p>
           <Link to="/register" className="btn btn-hero">Login/Register</Link>
         </div>
